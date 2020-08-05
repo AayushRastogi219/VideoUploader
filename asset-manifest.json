@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/VideoUploader/static/css/main.d3671be1.chunk.css",
+    "main.js": "/VideoUploader/static/js/main.9b519fe5.chunk.js",
+    "main.js.map": "/VideoUploader/static/js/main.9b519fe5.chunk.js.map",
+    "runtime~main.js": "/VideoUploader/static/js/runtime~main.18224075.js",
+    "runtime~main.js.map": "/VideoUploader/static/js/runtime~main.18224075.js.map",
+    "static/css/2.d34346ea.chunk.css": "/VideoUploader/static/css/2.d34346ea.chunk.css",
+    "static/js/2.801de637.chunk.js": "/VideoUploader/static/js/2.801de637.chunk.js",
+    "static/js/2.801de637.chunk.js.map": "/VideoUploader/static/js/2.801de637.chunk.js.map",
+    "index.html": "/VideoUploader/index.html",
+    "precache-manifest.adeed4b302ce8ce645a39b8c2e62a7f3.js": "/VideoUploader/precache-manifest.adeed4b302ce8ce645a39b8c2e62a7f3.js",
+    "service-worker.js": "/VideoUploader/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/VideoUploader/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.d3671be1.chunk.css.map": "/VideoUploader/static/css/main.d3671be1.chunk.css.map"
+  }
+}
